@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sidddev15.github.io/csb-crlw16/static/css/main.66b04c46.chunk.css",
+    "main.js": "https://sidddev15.github.io/csb-crlw16/static/js/main.44a47c05.chunk.js",
+    "main.js.map": "https://sidddev15.github.io/csb-crlw16/static/js/main.44a47c05.chunk.js.map",
+    "runtime-main.js": "https://sidddev15.github.io/csb-crlw16/static/js/runtime-main.a6ada7e5.js",
+    "runtime-main.js.map": "https://sidddev15.github.io/csb-crlw16/static/js/runtime-main.a6ada7e5.js.map",
+    "static/js/2.3e4f586d.chunk.js": "https://sidddev15.github.io/csb-crlw16/static/js/2.3e4f586d.chunk.js",
+    "static/js/2.3e4f586d.chunk.js.map": "https://sidddev15.github.io/csb-crlw16/static/js/2.3e4f586d.chunk.js.map",
+    "index.html": "https://sidddev15.github.io/csb-crlw16/index.html",
+    "static/css/main.66b04c46.chunk.css.map": "https://sidddev15.github.io/csb-crlw16/static/css/main.66b04c46.chunk.css.map",
+    "static/js/2.3e4f586d.chunk.js.LICENSE.txt": "https://sidddev15.github.io/csb-crlw16/static/js/2.3e4f586d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ada7e5.js",
+    "static/js/2.3e4f586d.chunk.js",
+    "static/css/main.66b04c46.chunk.css",
+    "static/js/main.44a47c05.chunk.js"
+  ]
+}
